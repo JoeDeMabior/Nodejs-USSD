@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/nodejs ussd app.iml
+.idea/runConfigurations/
+.idea/workspace.xml
+bin/
+node_modules/
+package-lock.json
+public/images/
+public/javascripts/
+views/
