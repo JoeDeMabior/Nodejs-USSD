@@ -11,4 +11,7 @@ node_modules/
 package-lock.json
 public/images/
 public/javascripts/
+public/stylesheets
 views/
+routes/
+.idea/vcs.xml
