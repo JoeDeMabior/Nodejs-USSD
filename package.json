@@ -1,7 +1,6 @@
 {
   "name": "ussd",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "start": "nodemon app.js"
   },
@@ -12,16 +11,7 @@
     "nodemon": "^1.19.1"
   },
   "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JoeDeMabior/Nodejs-USSD.git"
-  },
+  "repository": "https://github.com/JoeDeMabior/Nodejs-USSD.git",
   "author": "Joe",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/JoeDeMabior/Nodejs-USSD/issues"
-  },
-  "homepage": "https://github.com/JoeDeMabior/Nodejs-USSD#readme",
-  "description": ""
+  "license": "MIT"
 }
